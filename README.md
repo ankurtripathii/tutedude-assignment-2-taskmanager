@@ -17,6 +17,6 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # React Essentials Assignment
 
-## Submission Links
-GitHub Repository: https://github.com/FullStackWebZone/react-essentials-assignment
+## Submission Link
+
 Live Production Build: https://tutedude-assignment-2-taskmanager.vercel.app/
