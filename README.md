@@ -18,5 +18,5 @@ If you are developing a production application, we recommend using TypeScript wi
 # React Essentials Assignment
 
 ## Submission Link
-https://github.com/ankurtripathii/tutedude-assignment-2-taskmanager
-Live Production Build: https://tutedude-assignment-2-taskmanager.vercel.app/
+
+Live Production Build: https://tutedude-assignment-2-taskmanager-lac.vercel.app/
