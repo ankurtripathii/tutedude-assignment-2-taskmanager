@@ -10,10 +10,10 @@ function App() {
     <TaskProvider>
       <div className="app-container">
         <header className="app-header">
-          <h1>⚡ Task Manager Pro</h1>
+          <h1>Task Manager</h1>
           <p>Context API & useReducer Management</p>
         </header>
-        
+
         <TaskSummary />
         <TaskInput />
         <TaskList />
